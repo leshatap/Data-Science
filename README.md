@@ -1,2 +1,3 @@
 # Data-Science
-Learning techniques, approaches and all sum of it all
+Learning techniques, approaches and sum of it all
+ I am Data Analyst.I like SQL, Tableau, R, Python, PowerBI  
